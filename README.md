@@ -15,6 +15,12 @@
 
 ## Udemy
 
+### Build A Full Stack Application In A Weekend
+- Date: June 20, 2023
+
+### Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+- Date: January 8th, 2022
+
 ### 50 Projects In 50 Days - HTML5, CSS3 & JavaScript
 - Date: September 30, 2021
 
