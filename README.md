@@ -2,16 +2,13 @@
 
 ## Scrimba - Frontend Developer Career Path
 
-
 ## Scrimba - UI Design Bootcamp
-
 - Date: July, 9 2021
 
 ## Nucamp - Frontend Web Development
 
 - Date: March 6, 2023
 - Course: Bootstap
-
 
 ## Udemy
 
