@@ -1,8 +1,11 @@
 # Certificates
 
-## Scrimba - Frontend Developer Career Path
+## Scrimba
 
-## Scrimba - UI Design Bootcamp
+Frontend Developer Career Path
+- Date: October 8, 2024
+
+UI Design Bootcamp
 - Date: July, 9 2021
 
 ## Nucamp - Frontend Web Development
