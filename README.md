@@ -15,7 +15,6 @@ UI Design Bootcamp
 
 ## Udemy
 
-
 Quick Introduction To Postman And API Testing For Beginners
 - Date: November 11, 2022
 - Instructor: Valentin Despa
