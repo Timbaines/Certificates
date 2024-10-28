@@ -11,7 +11,7 @@ UI Design Bootcamp
 ## Nucamp - Frontend Web Development
 
 - Date: March 6, 2023
-- Course: Bootstap
+- Course: Bootstrap
 
 
 ## Udemy
